@@ -6,14 +6,9 @@ namespace AlgoCards
     {
         public static void Main(string[] args)
         {
-            var deck = new List<Card>();
+            var deck = GetSortedDeck();
 
-            for (int i = 0; i < 54; i++)
-            {
-                deck.Add(new Card((CardValueIndex)i));
-            }
-
-            Console.WriteLine("Deck count:");
+                        Console.WriteLine("Deck count:");
             Console.WriteLine(deck.Count());
             Console.WriteLine();
 
@@ -27,6 +22,18 @@ namespace AlgoCards
             Console.WriteLine();
             Console.WriteLine();
             Console.WriteLine();
+        }
+
+        private static List<Card> GetSortedDeck()
+        {
+            var deck = new List<Card>();
+
+            for (int i = 0; i < 54; i++)
+            {
+                deck.Add(new Card((CardValueIndex)i));
+            }
+            
+            return deck;
         }
     }
 }
