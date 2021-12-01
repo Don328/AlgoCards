@@ -1,0 +1,15 @@
+L:\source\repos\AlgoCards\bin\Debug\net6.0\AlgoCards.exe
+L:\source\repos\AlgoCards\bin\Debug\net6.0\AlgoCards.deps.json
+L:\source\repos\AlgoCards\bin\Debug\net6.0\AlgoCards.runtimeconfig.json
+L:\source\repos\AlgoCards\bin\Debug\net6.0\AlgoCards.dll
+L:\source\repos\AlgoCards\bin\Debug\net6.0\ref\AlgoCards.dll
+L:\source\repos\AlgoCards\bin\Debug\net6.0\AlgoCards.pdb
+L:\source\repos\AlgoCards\obj\Debug\net6.0\AlgoCards.csproj.AssemblyReference.cache
+L:\source\repos\AlgoCards\obj\Debug\net6.0\AlgoCards.GeneratedMSBuildEditorConfig.editorconfig
+L:\source\repos\AlgoCards\obj\Debug\net6.0\AlgoCards.AssemblyInfoInputs.cache
+L:\source\repos\AlgoCards\obj\Debug\net6.0\AlgoCards.AssemblyInfo.cs
+L:\source\repos\AlgoCards\obj\Debug\net6.0\AlgoCards.csproj.CoreCompileInputs.cache
+L:\source\repos\AlgoCards\obj\Debug\net6.0\AlgoCards.dll
+L:\source\repos\AlgoCards\obj\Debug\net6.0\ref\AlgoCards.dll
+L:\source\repos\AlgoCards\obj\Debug\net6.0\AlgoCards.pdb
+L:\source\repos\AlgoCards\obj\Debug\net6.0\AlgoCards.genruntimeconfig.cache
