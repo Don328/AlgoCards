@@ -7,11 +7,11 @@ namespace AlgoCards
         public static void Main(string[] args)
         {
             var deck = GetSortedDeck();
+            DisplayDeck(deck);
+        }
 
-                        Console.WriteLine("Deck count:");
-            Console.WriteLine(deck.Count());
-            Console.WriteLine();
-
+        private static void DisplayDeck(List<Card> deck)
+        {
             foreach (var card in deck)
             {
                 Console.WriteLine($"index: {card.Index} | Suit: {card.Suit} [{card.SuitColor}]| Rank: {card.Rank} | {card.ToString()}");
@@ -20,6 +20,9 @@ namespace AlgoCards
             }
 
             Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine("Deck count:");
+            Console.WriteLine(deck.Count());
             Console.WriteLine();
             Console.WriteLine();
         }
