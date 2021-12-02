@@ -1,3 +1,5 @@
+
+namespace AlgoCards;
 public enum CardValueIndex
 {
     XX,
